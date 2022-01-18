@@ -1,4 +1,4 @@
-# IB-GAN: A Unified Approach for Multivariate Time Series Classification under Class Imbalance
+# IB-GAN: Imputation-Balanced GAN
 
 
 This repository accompanies the paper, IB-GAN: A Unified Approach for Multivariate Time Series Classification under Class Imbalance (https://arxiv.org/abs/2110.07460), in proceedings of SDM 2022.
